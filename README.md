@@ -1,6 +1,6 @@
 # harness-subagent 实战笔记：从「看懂」到「跑通」跨 Harness 多智能体编排
 
-> 面向赛道 1（AI Agent 编排工程师：LangGraph + MCP + 多 Agent 编排）的 portfolio 首案
+> LangGraph + MCP + 多 Agent 编排
 > 作者：Jeray Zhu ｜ 日期：2026-08-25
 
 ## 0. 为什么做这件事
