@@ -141,7 +141,7 @@ def synthesize(run_dir, names):
 - **综合在父**：父不替子干活，只做「比对 + 定级」，符合编排层职责
 - **交叉验证**：用「被几个子代理提到」作为置信度信号
 
-## 3. 与赛道 1（LangGraph + MCP）的映射
+## 3. 与 LangGraph + MCP 的映射
 
 | harness-subagent 概念 | LangGraph 对应 | 说明 |
 |---|---|---|
@@ -163,7 +163,7 @@ def synthesize(run_dir, names):
 
 - [ ] 在已登录真实 CLI 的环境跑原版 harness-subagent 的 end-to-end（Claude Code 派 Codex 审自家 PR），补真实截图
 - [ ] 把本 demo 的「确定性子代理」升级为「接真实 LLM 的子代理」，或直接用 LangGraph 重写成 graph 版本
-- [ ] 把「交叉验证」模块抽象成一个可复用的 Python 包 / LangGraph Tool，作为 portfolio 的第二个作品
+- [ ] 把「交叉验证」模块抽象成一个可复用的 Python 包 / LangGraph Tool，作为 portfolio 的作品
 
 ---
 
